@@ -40,7 +40,6 @@
 📚 My goal is to continue growing as a developer, gain practical experience, and build increasingly complete and professional projects.
 
 > 🎯 **Learning, building, and improving every day.**
-```
 
 ## GitHub Stats
 
