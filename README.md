@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="2048" height="762" alt="Diseño sin título" src="https://github.com/user-attachments/assets/39b7d3ed-8314-4c1d-8314-aeab47ae2a51" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ManuDev664&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
