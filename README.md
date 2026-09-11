@@ -1,7 +1,5 @@
-## Hi there 👋
 <img width="2048" height="762" alt="Diseño sin título" src="https://github.com/user-attachments/assets/39b7d3ed-8314-4c1d-8314-aeab47ae2a51" />
 
-```markdown
 # 👋 ¡Hola! Soy Manu
 
 💻 **Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)**, actualmente aprendiendo y trabajando con el stack tecnológico impartido durante el ciclo con el objetivo de formarme como **desarrollador Full Stack**.
@@ -21,9 +19,8 @@
 📚 Mi objetivo es seguir creciendo como desarrollador, adquirir experiencia práctica y crear proyectos cada vez más completos y profesionales.
 
 > 🎯 **Aprendiendo, desarrollando y mejorando un poco cada día.**
-```
 
-```markdown
+
 # 👋 Hi! I'm Manu
 
 💻 **Second-year Web Application Development (DAW) student**, currently learning and working with the technology stack taught throughout the program with the goal of becoming a **Full Stack Developer**.
