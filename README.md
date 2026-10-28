@@ -1,4 +1,4 @@
-<img width="2048" height="762" alt="Diseño sin título" src="https://github.com/user-attachments/assets/39b7d3ed-8314-4c1d-8314-aeab47ae2a51" />
+<img width="2159" height="728" alt="Banner-Github" src="https://github.com/user-attachments/assets/c420a0e1-9694-444b-ba8e-b6e54494b220" />
 
 # 👋 ¡Hola! Soy Manu
 
