@@ -57,8 +57,8 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 
 [![streak](https://streak-stats.demolab.com/?user=ManuDev664&hide_border=true&background=0A0A0A&stroke=22D3EE&ring=A78BFA&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&title_color=22D3EE&card_width=1180)](https://git.io/streak-stats)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=ManuDev664&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=A1A1AA&bg_color=0A0A0A&card_width=500)](https://github.com/ManuDev664)
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuDev664&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=A1A1AA&bg_color=0A0A0A&card_width=500)](https://github.com/ManuDev664)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManuDev664&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A0A0A&color=0A0A0A" alt="Following">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManuDev664&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0A0A0A&color=0A0A0A" alt="Repos">
 
 <p align="center">
   <a href="https://github.com/ManuDev664?tab=followers"><img src="https://img.shields.io/github/followers/ManuDev664?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&labelColor=0A0A0A&color=0A0A0A" alt="Followers"></a>
