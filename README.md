@@ -1,6 +1,6 @@
 ![Manu // ManuDev664](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/light.svg)
 
-[![ManuDev664 Banner](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/BannerGitHub.png)](https://github.com/ManuDev664)
+[![ManuDev664 Banner](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/BannerGithub.png)](https://github.com/ManuDev664)
 
 # 👋 ¡Hola! Soy Manu
 
