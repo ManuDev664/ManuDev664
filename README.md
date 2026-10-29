@@ -57,14 +57,26 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 
 [![streak](https://streak-stats.demolab.com/?user=ManuDev664&hide_border=true&background=0A0A0A&stroke=22D3EE&ring=A78BFA&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&title_color=22D3EE&card_width=1180)](https://git.io/streak-stats)
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManuDev664&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A0A0A&color=0A0A0A" alt="Following">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManuDev664&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0A0A0A&color=0A0A0A" alt="Repos">
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=ManuDev664&hide_border=true&background=0A0A0A&stroke=22D3EE&ring=A78BFA&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://github-readme-stats-omega-ochre-70.vercel.app/api?username=ManuDev664&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-omega-ochre-70.vercel.app/api/top-langs/?username=ManuDev664&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="top langs" />
+<br/><br/>
+<a href="https://github.com/ManuDev664?tab=followers">
+  <img src="https://img.shields.io/github/followers/ManuDev664?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&labelColor=0A0A0A&color=0A0A0A" alt="Followers" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ManuDev664?tab=following">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManuDev664&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A0A0A&color=0A0A0A" alt="Following" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ManuDev664?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManuDev664&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0A0A0A&color=0A0A0A" alt="Public Repos" />
+</a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/ManuDev664?tab=followers"><img src="https://img.shields.io/github/followers/ManuDev664?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&labelColor=0A0A0A&color=0A0A0A" alt="Followers"></a>
-  <a href="https://github.com/ManuDev664?tab=following"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ManuDev664&label=FOLLOWING&query=following&style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A0A0A&color=0A0A0A" alt="Following"></a>
-  <a href="https://github.com/ManuDev664?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ManuDev664&label=REPOS&query=public_repos&style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0A0A0A&color=0A0A0A" alt="Repos"></a>
-</p>
+<br/>
 
 ![Snake eating my contributions](https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg)
 
