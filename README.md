@@ -58,8 +58,8 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=ManuDev664&hide_border=true&background=0A0A0A&stroke=22D3EE&ring=A78BFA&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://github-readme-stats-omega-ochre-70.vercel.app/api?username=ManuDev664&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-omega-ochre-70.vercel.app/api/top-langs/?username=ManuDev664&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-omega-ochre-70.vercel.app/api?username=ManuDev664&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=A1A1AA&bg_color=0A0A0A&card_width=500&line_height=27" alt="stats" />
+<img width="49%" src="https://github-readme-stats-omega-ochre-70.vercel.app/api/top-langs/?username=ManuDev664&layout=normal&langs_count=3&hide_border=true&title_color=22D3EE&text_color=A1A1AA&bg_color=0A0A0A&card_width=500" alt="top langs" />
 <br/><br/>
 <a href="https://github.com/ManuDev664?tab=followers">
   <img src="https://img.shields.io/github/followers/ManuDev664?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&labelColor=0A0A0A&color=0A0A0A" alt="Followers" />
