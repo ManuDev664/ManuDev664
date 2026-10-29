@@ -55,8 +55,6 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 </tr>
 </table>
 
-[![streak](https://streak-stats.demolab.com/?user=ManuDev664&hide_border=true&background=0A0A0A&stroke=22D3EE&ring=A78BFA&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&title_color=22D3EE&card_width=1180)](https://git.io/streak-stats)
-
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=ManuDev664&hide_border=true&background=0A0A0A&stroke=22D3EE&ring=A78BFA&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
