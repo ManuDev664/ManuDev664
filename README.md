@@ -75,12 +75,13 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 </div>
 
 <br/>
+![Snake eating my contributions](https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg)
+
 ![Connect](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/titles/connect-light.svg)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelarcosatienza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;&nbsp;
   <a href="mailto:manudev664@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A0A0A" alt="Email"></a>
 </p>
-
-![Snake eating my contributions](https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg)
