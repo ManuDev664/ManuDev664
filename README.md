@@ -82,3 +82,5 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
   &nbsp;&nbsp;
   <a href="mailto:manudev664@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A0A0A" alt="Email"></a>
 </p>
+
+![Snake eating my contributions](https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg)
