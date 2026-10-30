@@ -75,9 +75,6 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 </div>
 
 <br/>
-
-![Snake eating my contributions](https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg)
-
 ![Connect](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/titles/connect-light.svg)
 
 <p align="center">
