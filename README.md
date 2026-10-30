@@ -12,6 +12,10 @@
 
 > 🎯 **Aprendiendo, desarrollando y mejorando un poco cada día.**
 
+<details>
+<summary>🇬🇧 English version</summary>
+
+<br/>
 
 # 👋 Hi! I'm Manu
 
@@ -22,6 +26,8 @@
 📚 My goal is to continue growing as a developer, gain practical experience, and build increasingly complete and professional projects.
 
 > 🎯 **Learning, building, and improving every day.**
+
+</details>
 
 ![Stack](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/titles/stack-light.svg)
 
@@ -75,10 +81,12 @@ Formación Profesional enfocada en el desarrollo de aplicaciones web: frontend, 
 </div>
 
 <br/>
-![Snake eating my contributions](https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ManuDev664/ManuDev664/output/github-snake.svg?v=2" alt="Snake eating my contributions" width="100%" />
+</div>
 
 ![Connect](https://raw.githubusercontent.com/ManuDev664/ManuDev664/main/titles/connect-light.svg)
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelarcosatienza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
